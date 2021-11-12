@@ -4,6 +4,10 @@
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 
+## Aviso! ##
+### Precisei fazer o upload dos arquivos direto no GitHub, pois meu computador já estava quase ficando sem espaçoe assim precisei pegar um outro computador emprestado, na qual não possuia o git e eu precisava devolvê-lo logo, assim, todos os commits relacionados ao projeto estão como **"Add files via upload"**, porém, sei fazer o uso do git. ###
+
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 Teste de deploy da aplicação padrão da biblioteca React.js utilizando subsistema linux Ubuntu com WSL 2
 
